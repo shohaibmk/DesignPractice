@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/it1"
+        android:icon="@drawable/abc"
+        android:title="Development"
+
+        />
+    <item
+        android:id="@+id/it2"
+        android:icon="@drawable/color"
+        android:title="Design"
+
+        />
+    <item
+        android:id="@+id/it3"
+        android:icon="@drawable/pen"
+
+        android:title="Markting" />
+
+</menu>
